@@ -1,0 +1,68 @@
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe.config
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.pdb
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Properties.Resources.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.csproj.GenerateResource.Cache
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.exe
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.pdb
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Booking_Page.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BookingReport.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BookedDetail.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BookingDescription.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BookingPage.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BorderForAll.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.User_Control.CustomCalender.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.User_Control.CircularProgressBar.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.csprojResolveAssemblyReference.cache
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.AttendencePage.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.User_Control.CustomDateTimePicker.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.HistoryOfReservation.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.AttendenceView.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.FrontMainPage.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.ManagerMainPage.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.StoreMainPage.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.SignIn_Page.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Store.Proforma.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.User_Control.Voucher.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Store.RequisitionVoucher.resources
+F:\efrata\C-SHARP\Dream Hotel\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.HumanMainPage.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe.config
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.pdb
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.csproj.AssemblyReference.cache
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.csproj.SuggestedBindingRedirects.cache
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.AttendencePage.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.AttendenceView.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.HistoryOfReservation.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.FrontMainPage.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.ManagerMainPage.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.HumanMainPage.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.SignIn_Page.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Store.Proforma.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Store.RequisitionVoucher.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.StoreMainPage.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BookedDetail.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BookingDescription.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BookingPage.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BookingReport.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Booking_Page.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.BorderForAll.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Properties.Resources.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.User_Control.CircularProgressBar.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.User_Control.CustomCalender.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.User_Control.CustomDateTimePicker.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.User_Control.Voucher.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.csproj.GenerateResource.cache
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.csproj.CoreCompileInputs.cache
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.csproj.CopyComplete
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.exe
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.pdb
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Human_Resource.DisplayEmployee.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Human_Resource.AddEmployeePage.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Human_Resource.FireEmployee.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Human_Resource.ShiftSchedule.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Human_Resource.UpdateEmployee.resources
+C:\HiLCoE\# Dream Hotel\# Dream Hotel - Copy\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Design.Human_Resource.Form1.resources
